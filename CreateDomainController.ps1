@@ -2,7 +2,7 @@
 Connect-AzAccount;
 
 <# Set local variables #>
-$prefix = "fbgdeplag";
+$prefix = "yourprefix";
 $rg = "$prefix`-rg";
 $location = "EastUS";
 $dc = "$prefix`-dc";
